@@ -1,0 +1,19 @@
+terms:
+
+  M_omega:
+    description: Space of physical objects
+
+  omega_equivalence:
+    description: Equality of observable omega-limit sets
+
+  physical_object:
+    description: Equivalence class of asymptotically identical behavior
+
+  universality_class:
+    description: RG realization of an OmegaClass
+
+  phase:
+    description: Statistical-physics realization of an OmegaClass
+
+  attractor:
+    description: Dynamical-systems realization of an OmegaClass

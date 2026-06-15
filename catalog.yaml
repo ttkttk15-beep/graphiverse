@@ -1,0 +1,22 @@
+name: GraphiVerse
+
+version: 0.1
+
+description: >
+  Framework for describing physical objects through
+  observable asymptotic behavior.
+
+ontology:
+  - State
+  - StateSpace
+  - Dynamics
+  - Observable
+  - Orbit
+  - OmegaLimit
+  - OmegaClass
+  - PhysicalObject
+
+systems:
+  - LogisticMap
+  - Ising1D
+  - RenormalizationGroup
