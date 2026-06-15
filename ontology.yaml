@@ -1,0 +1,15 @@
+pipeline:
+
+  - State
+
+  - Orbit
+
+  - ObservableOrbit
+
+  - OmegaLimit
+
+  - OmegaEquivalence
+
+  - M_omega
+
+  - PhysicalObject
