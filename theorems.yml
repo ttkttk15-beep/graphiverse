@@ -1,0 +1,10 @@
+theorem:
+
+  name: PhysicalObjectHypothesis
+
+  statement: >
+    Physical objects correspond to equivalence classes
+    of identical observable asymptotic behavior.
+
+  formula: |
+    M_omega = X / ~_omega
