@@ -15,7 +15,7 @@ A system is defined by a triple **S = (X, F, O)**, where...
 The space of physical objects is then defined as the quotient **Mω = X / ∼ω**.
 
 ## Documentation
-The complete draft specification is available in GraphiVerse_Core_v0.1.pdf [`/specs/GraphiVerse_Core_v0.1.pdf`].
+The complete draft specification is available in GraphiVerse_Core_v0.1.pdf https://github.com/ttkttk15-beep/graphiverse/blob/0520c7b4afda50517f6c5b6965b4cfd9a96b78ff/GraphiVerse_Core_v0.1.pdf
 
 ## Status
 This is a **Draft Specification (v0.1)**. It defines the minimal axiomatic core and is open for discussion, formalization, and extension.
