@@ -1,0 +1,15 @@
+system: Ising1D
+
+state_space:
+  coupling_constant: K
+
+dynamics:
+  RG_decimation
+
+observable:
+  correlation_length
+
+omega_classes:
+
+  paramagnetic_regime:
+    type: OmegaClass 
