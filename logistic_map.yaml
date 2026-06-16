@@ -1,0 +1,18 @@
+system: LogisticMap
+
+state_space:
+  interval: [0,1]
+
+dynamics:
+  formula: x -> 4*x*(1-x)
+
+observable:
+  identity
+
+omega_classes:
+
+  chaotic_regime:
+    type: OmegaClass
+
+interpretation:
+  asymptotic statistical behavior

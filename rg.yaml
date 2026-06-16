@@ -1,0 +1,15 @@
+system: RenormalizationGroup
+
+state_space:
+  Hamiltonians
+
+dynamics:
+  RG_flow
+
+observable:
+  relevant_couplings
+
+omega_classes:
+
+  universality_class:
+    type: OmegaClass
