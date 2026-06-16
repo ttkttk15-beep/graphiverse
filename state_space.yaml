@@ -1,0 +1,4 @@
+entity: StateSpace
+
+description: >
+  Set of admissible states of a system. 
