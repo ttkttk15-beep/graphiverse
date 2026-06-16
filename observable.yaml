@@ -1,0 +1,6 @@
+entity: Observable
+
+description: >
+  Observation map O.
+
+formula: O:X->Y

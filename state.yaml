@@ -1,0 +1,15 @@
+entity: State
+
+description: >
+  Element of a state space.
+
+relationships:
+
+  belongs_to:
+    target: StateSpace
+
+  evolves_under:
+    target: Dynamics
+
+  generates:
+    target: Orbit

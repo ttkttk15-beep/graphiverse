@@ -1,0 +1,14 @@
+entity: OmegaLimit
+
+description: >
+  Observable omega-limit set.
+
+formula: omega_O(x)
+
+relationships:
+
+  induced_by:
+    target: Observable
+
+  associated_with:
+    target: Orbit

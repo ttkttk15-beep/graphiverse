@@ -1,0 +1,6 @@
+entity: Dynamics
+
+description: >
+  Evolution operator F.
+
+formula: F:X->X

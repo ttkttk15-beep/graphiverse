@@ -1,0 +1,14 @@
+entity: PhysicalObject
+
+description: >
+  Element of M_omega.
+
+formula: [x]_omega
+
+relationships:
+
+  realized_as:
+    targets:
+      - Attractor
+      - Phase
+      - UniversalityClass

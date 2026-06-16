@@ -1,0 +1,14 @@
+entity: OmegaClass
+
+description: >
+  Equivalence class of states possessing identical observable omega-limit sets.
+
+formula: x ~_omega y
+
+relationships:
+
+  contains:
+    target: State
+
+  represented_by:
+    target: PhysicalObject
