@@ -29,7 +29,7 @@ This is a **Draft Specification (v0.1)**. It defines the minimal axiomatic core 
 
 ## How to Cite
 If you use this framework in your work, please cite it as:
-> [Your Name]. (2026). GraphiVerse Core v0.1: A Framework for Observable Asymptotic Behavior. GitHub. [https://github.com/yourusername/graphiverse](https://github.com/yourusername/graphiverse)
+> [Your Name]. (2026). GraphiVerse Core v0.1: A Framework for Observable Asymptotic Behavior. GitHub. [https://github.com/yourusername/graphiverse](https://github.com/ttkttk15-beep/graphiverse)
 
 ## License
 This work is licensed under a **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**.
